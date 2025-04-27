@@ -46,3 +46,5 @@ The C version of the game is located in the guessing_game.c file. This version i
 ## Example Screenshot of C Version(Console game)
 ![Number Guessing Console Game Screenshot](https://github.com/user-attachments/assets/42b3e56e-94c5-4f0e-9167-0826a92f37f8)
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/Number-Guessing-Game/blob/main/LICENSE) file for details.
